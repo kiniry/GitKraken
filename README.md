@@ -11,4 +11,5 @@ Implicitly creating a new branch by editing README on GitHub.
 
 Another edit in the first PR.
 
-A fouth line.
+A fourth line.
+
